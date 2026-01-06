@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom styles below */
+body {
+  @apply bg-[#0a0a0f] text-slate-50;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
