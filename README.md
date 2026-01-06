@@ -2,6 +2,9 @@
 
 **Zen Habit** is a gamified habit tracker that transforms your daily self-improvement into an epic RPG adventure. Evolve your digital companion ("Zen Pet") from an egg to a mythical creature by staying consistent with your habits.
 
+[LIVE DEMO]([URL](https://zenhabbitapp.pages.dev/))
+
+
 ![Zen Habit Banner](public/pwa-512x512.png)
 *(Replace with actual screenshot if available)*
 
@@ -108,3 +111,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Built with ❤️ by Muzahir*
+
